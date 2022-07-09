@@ -1,3 +1,3 @@
-# Ubuntu 
+# Bash Scripts
 
-Ready to go commands for ubuntu post installation.
+Ready to go scripts for day to day usages.
