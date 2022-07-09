@@ -1,3 +1,3 @@
 # Bash Scripts
 
-Ready to go scripts for day to day usages.
+Ready to go scripts for day to day usage.
